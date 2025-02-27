@@ -7,3 +7,4 @@ spacy
 charset-normalizer
 pdfplumber 
 python-docx
+langchain_community
